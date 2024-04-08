@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
-My tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+My instructions outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
 
 
